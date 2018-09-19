@@ -122,12 +122,3 @@ const battle = () => {
 
 gameInitiate(9, eggbert, computer);
 battle();
-
-
-
-
-
-
-
-
-
